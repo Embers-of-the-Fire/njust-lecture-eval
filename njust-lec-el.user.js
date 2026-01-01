@@ -7,6 +7,7 @@
 // @match        http://bkjw.njust.edu.cn/njlgdx/xspj/xspj_edit.do*
 // @match        https://bkjw.njust.edu.cn/njlgdx/xspj/xspj_edit.do*
 // @icon         https://www.njust.edu.cn/_upload/tpl/07/7d/1917/template1917/favicon.ico
+// @license      AGPLv3
 // @grant        none
 // ==/UserScript==
 
